@@ -1,6 +1,6 @@
 # Ex.06 Book Front Cover Page Design
-# NAME= SYED HUZAIF
-# REG NO=212224240166
+## Name:SYED HUZAIF
+## Register Number:212224240166
 
 ## AIM:
 To design a book front cover page using HTML and CSS.
@@ -53,7 +53,7 @@ Publish the website in the LocalHost.
     .book-cover {
       width: 400px;
       height: 600px;
-      background: palevioletred;
+      background: lightblue;
       border: 2px solid #333;
       padding: 40px 30px;
       box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
@@ -101,23 +101,22 @@ Publish the website in the LocalHost.
 <body>
   <div class="book-cover">
     <div>
-      <div class="title">The Psychology of Simplicity</div>
+      <div class="title"> Captain Cool : M.S Dhoni</div>
       <div class="line"></div>
-      <div class="subtitle">Understanding the beauty of less</div>
+      <div class="subtitle">The Untold Story</div>
     </div>
     <div class="image">
-        <img src="https://img.freepik.com/free-vector/flat-world-mental-health-day-background_23-2149634438.jpg?t=st=1744720480~exp=1744724080~hmac=f1760139b6a1644521a6843c7039f2b45bdc688d25f4f3a479e1d59dcfad5515&w=1380" length="10%" width="100%">
+        <img src="https://wallpaperaccess.com/full/7041233.jpg" length="10%" width="100%">
     </div>
-    <div class="author">By Morgan Simplar</div>
+    <div class="author">By Priyadharshini G</div>
   </div>
 </body>
 </html>
   
 ```
-
-
 ## OUTPUT:
-![alt text](<Screenshot 2025-04-28 103440.png>)
+![Screenshot 2025-04-26 150701](https://github.com/user-attachments/assets/ef8b9e55-60df-4de8-abf3-423d9d81581d)
+
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
